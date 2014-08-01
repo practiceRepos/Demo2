@@ -36,14 +36,13 @@ namespace GitTest
 
         }
 
-<<<<<<< HEAD
-      
-=======
+
+
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Bonjour, Le Monde!");
 
         }
->>>>>>> master
+
     }
 }

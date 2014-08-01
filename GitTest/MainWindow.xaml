@@ -5,10 +5,8 @@
     <Grid>
         <Button Content="English" HorizontalAlignment="Left" Margin="250,95,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
         <Button Content="German" HorizontalAlignment="Left" Margin="102,95,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
-<<<<<<< HEAD
-=======
+
         <Button Content="French" HorizontalAlignment="Left" Margin="400,95,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2" />
->>>>>>> master
 
     </Grid>
 </Window>
